@@ -1,2 +1,2 @@
 # Duct_Calculator
-Calculator for evaluating the performance of air ducts.
+GUI for evaluating the performance of air ducts.
