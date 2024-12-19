@@ -1,2 +1,2 @@
 # Duct_Calculator
-GUI for evaluating the performance of air ducts.
+A duct sizer GUI that allows the user to evaluate the performance of air ducts at chosen airflows, shapes, and sizes.
